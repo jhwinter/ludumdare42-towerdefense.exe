@@ -42,3 +42,4 @@ Builds/*
 Obj/*
 .DS_Store
 
+Library/metadata/*
