@@ -34,3 +34,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Library/**/**/*
+Temp/*
+Build/*
+Builds/*
+Obj/*
+.DS_Store
+
+Library/metadata/*
